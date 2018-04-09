@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { SopaService } from '../sopaservice.service';
-import { CrearComponent } from '../crear/crear.component';
 
 declare var $: any;
 @Component({
